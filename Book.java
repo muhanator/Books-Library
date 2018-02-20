@@ -1,6 +1,6 @@
 
 /**
- * This is the Book class where all the books will be created for the Bookstore to contain.
+ * This is the Book class where all the books will be created for the Bookstore in order to contain.
  * Everything related to creating the books are in this class, from the author, the title, the ISBN and
  * the price. It contains all the methods asked for including the accessor methods, mutator methods, toString method etc.
  */
